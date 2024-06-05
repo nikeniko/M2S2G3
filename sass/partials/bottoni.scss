@@ -1,0 +1,18 @@
+$btn1: #0e6eff;
+$btn2: #ff8700;
+$btn3: #4caf50;
+%btn1 {
+  padding: $size-1 $size-2;
+  border: 2px solid $btn1;
+  border-radius: 6px;
+}
+%btn2 {
+  padding: $size-1 $size-2;
+  border: 2px solid $btn2;
+  border-radius: 6px;
+}
+%btn3 {
+  padding: $size-1 $size-2;
+  border: 2px solid $btn3;
+  border-radius: 6px;
+}
